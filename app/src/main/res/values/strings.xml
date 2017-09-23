@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Abas</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+</resources>
